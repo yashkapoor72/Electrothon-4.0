@@ -1,2 +1,3 @@
-# Electrothon-4.0
-Repository for Electrothon 4.0
+# Electrothon-4.0 UniMitra
+
+https://www.figma.com/file/we2IChfsIlPnpBRMUldJKq/Untitled?node-id=0%3A1
